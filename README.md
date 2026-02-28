@@ -79,7 +79,7 @@ Route D has the longest delay.
 
 <img width="578" height="445" alt="passenger count on vs off peak" src="https://github.com/user-attachments/assets/8c9200f7-28bd-42a5-971f-c05ef86d40ee" />
 
-- According to this boxplot graph, we can observe that the passenger count is very similar in variability and has the same median. Which doesn't show the number of passengers aren't much affected whether its peak or not.
+- According to this boxplot graph, we can observe that the passenger count is very similar in variability and has around the same median. Which shows the number of passengers aren't much affected whether its peak or not.
 
 #### Question3: What percentage of trips use each fare type?
 | fare_type | % |
