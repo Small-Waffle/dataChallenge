@@ -1,5 +1,8 @@
 # Group 11: Transit Data
 
+Video Presentation Link:
+https://drive.google.com/file/d/1ZNrgyVDv_b5s5P-1iOF9gBGcwYnaNdsn/view?usp=sharing
+
 ## Reading Data + Cleaning
 ---
 The raw data contained, 1300 entries of transit routes. The table follows the schema:
@@ -92,7 +95,8 @@ Route D has the longest delay.
 - Given the data, we find that adults and students passengers are the two most common users of Transit.
 
 <img width="390" height="411" alt="fare distribution" src="https://github.com/user-attachments/assets/6a3bf592-036a-4975-b0c8-1d10a9b3e902" />
-<img width="390" height="411" alt="percentage of trips by fare type" src="https://github.com/user-attachments/assets/01441ce7-4697-4ad6-b8e2-b64493a79977" />
+<img width="562" height="489" alt="output" src="https://github.com/user-attachments/assets/417f669c-6a91-4755-b9ce-0b544a0c33cc" />
+
 
 - These graphs allow us to see the fare type distirbution.
 
