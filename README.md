@@ -140,5 +140,5 @@ By calculating the correlation between the number of passengers and delays, find
 - For each vehicle type, the average quantity of passengers surprisingly remains similiar. 
 - All transit vehicles share the same minimum number of passengers. Maximum number of passengers varying by a single passenger.
 - Regardless of vehicle type and passenger quantity, the delay remains the same. Implying 
-- The passenger counts are about double during on-Peak hours veruses off-Peak than during
-- The passenger count are more than doubled during Weekdays veruses Weeklimit
+- The passenger counts are about double during on-Peak hours vs off-Peak than during
+- The passenger count are more than doubled during Weekdays vs Weekends
